@@ -1,5 +1,5 @@
 
-//consValue is the div element not the value we are modifying which  so it can be const
+//constValue is the div element not the value we are modifying which  so it can be const
 const countValue = document.querySelector(".count");
 
 function increment (){
